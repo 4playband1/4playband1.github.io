@@ -1,41 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>4playband</title>
+    <title>4 play</title>
     <link href="https://4playband.ca/feed.xml" rel="self" />
     <link href="https://4playband.ca" />
-    <updated>2026-09-02T10:08:52-07:00</updated>
+    <updated>2026-09-02T16:15:31-07:00</updated>
     <author>
         <name>Lynn Tissington</name>
     </author>
     <id>https://4playband.ca</id>
 
     <entry>
-        <title>We are the Best Band</title>
+        <title>Gord</title>
         <author>
             <name>Lynn Tissington</name>
         </author>
-        <link href="https://4playband.ca/we-are-the-best-band.html"/>
-        <id>https://4playband.ca/we-are-the-best-band.html</id>
-        <media:content url="https://4playband.ca/media/posts/1/bandjpg.jpg" medium="image" />
+        <link href="https://4playband.ca/gord/"/>
+        <id>https://4playband.ca/gord/</id>
+        <media:content url="https://4playband.ca/media/posts/8/band-no-logo.png" medium="image" />
+            <category term="BIO"/>
 
-        <updated>2026-09-02T10:08:52-07:00</updated>
+        <updated>2026-09-02T16:15:31-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Lynn</title>
+        <author>
+            <name>Lynn Tissington</name>
+        </author>
+        <link href="https://4playband.ca/lynn/"/>
+        <id>https://4playband.ca/lynn/</id>
+        <media:content url="https://4playband.ca/media/posts/7/4play-logo.svg" medium="image" />
+            <category term="BIO"/>
+
+        <updated>2026-09-02T16:14:41-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://4playband.ca/media/posts/1/bandjpg.jpg" alt="" />
-                    Our Members sasdasdaf sadf asdf sa df
+                        <img src="https://4playband.ca/media/posts/7/4play-logo.svg" alt="" />
+                    Bass, Etc
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://4playband.ca/media/posts/1/bandjpg.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Our Members<br>sasdasdaf</p>
-<p> </p>
-<ul>
-<li>sadf</li>
-<li>asdf</li>
-<li>sa</li>
-<li>df</li>
-</ul>
+                    <p><img src="https://4playband.ca/media/posts/7/4play-logo.svg" class="type:primaryImage" alt="" /></p>
+                <p>Bass, Etc</p>
             ]]>
         </content>
     </entry>
