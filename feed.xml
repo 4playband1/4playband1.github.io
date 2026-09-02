@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>4playband</title>
+    <link href="https://4playband.ca/feed.xml" rel="self" />
+    <link href="https://4playband.ca" />
+    <updated>2026-09-02T10:08:52-07:00</updated>
+    <author>
+        <name>Lynn Tissington</name>
+    </author>
+    <id>https://4playband.ca</id>
+
+    <entry>
+        <title>We are the Best Band</title>
+        <author>
+            <name>Lynn Tissington</name>
+        </author>
+        <link href="https://4playband.ca/we-are-the-best-band.html"/>
+        <id>https://4playband.ca/we-are-the-best-band.html</id>
+        <media:content url="https://4playband.ca/media/posts/1/bandjpg.jpg" medium="image" />
+
+        <updated>2026-09-02T10:08:52-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://4playband.ca/media/posts/1/bandjpg.jpg" alt="" />
+                    Our Members sasdasdaf sadf asdf sa df
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://4playband.ca/media/posts/1/bandjpg.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Our Members<br>sasdasdaf</p>
+<p> </p>
+<ul>
+<li>sadf</li>
+<li>asdf</li>
+<li>sa</li>
+<li>df</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

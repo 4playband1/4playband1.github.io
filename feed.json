@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "4playband",
+    "description": "",
+    "home_page_url": "https://4playband.ca",
+    "feed_url": "https://4playband.ca/feed.json",
+    "user_comment": "",
+    "icon": "https://4playband.ca/media/website/logo.jpg",
+    "author": {
+        "name": "Lynn Tissington"
+    },
+    "items": [
+        {
+            "id": "https://4playband.ca/we-are-the-best-band.html",
+            "url": "https://4playband.ca/we-are-the-best-band.html",
+            "title": "We are the Best Band",
+            "summary": "Our Members sasdasdaf sadf asdf sa df",
+            "content_html": "<p>Our Members<br>sasdasdaf</p>\n<p> </p>\n<ul>\n<li>sadf</li>\n<li>asdf</li>\n<li>sa</li>\n<li>df</li>\n</ul>",
+            "image": "https://4playband.ca/media/posts/1/bandjpg.jpg",
+            "author": {
+                "name": "Lynn Tissington"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-02T10:08:52-07:00",
+            "date_modified": "2026-09-02T10:08:52-07:00"
+        }
+    ]
+}
